@@ -1,0 +1,3 @@
+questão 8: o loop de eventos chama a pilha e não precisa esperar um retorno para que continue executando os procedimentos, ou seja, funciona de fomra assincrona. Podendo realizar mais de um procedimento. Os procedimentos seguem a ideia de uma fila e executa com a ideia de uma pilha, de acordo com suas prioridades. 
+
+questão 9: a função do V8 é executar procedimentos em C++ e compilar, trazer as respostas em JavaScript. O Libuv funciona como uma biblioteca em C. 
